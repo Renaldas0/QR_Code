@@ -1,5 +1,7 @@
 # Frontend Mentor - QR code component
 
+## [Live Preview HERE](https://renaldas0.github.io/QR_Code/)
+
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
